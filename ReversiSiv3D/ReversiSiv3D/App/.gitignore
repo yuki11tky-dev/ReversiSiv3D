@@ -1,0 +1,6 @@
+*
+!dll/**
+!engine/**
+!icon.ico
+!Resource.Resource
+!.gitignore
