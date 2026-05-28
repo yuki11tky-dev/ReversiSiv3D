@@ -24,12 +24,14 @@
 ### ディレクトリ構成
 ```
 ReversiSiv3D
+ └─ Documents
  └─ ReversiSiv3D
      ├─ App
      ├─ Asset
      └─ Reversi
 ```
-
+ - Documentsフォルダ
+   - 本作品のドキュメントを配置
  - Appフォルダ
    - ビルド生成物とアセット群がこのフォルダに配置
    - ビルド生成物の他にOpenSiv3D関連のdll等も配置
@@ -70,7 +72,7 @@ ReversiSiv3D
 3. 各画面上での責務分離
 4. 描画システム
 
-詳細は設計ドキュメントをご覧ください。
+詳細はDocumentsフォルダ内の設計ドキュメントをご覧ください。
 
 ### 最後に
 
